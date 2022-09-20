@@ -39,6 +39,10 @@ Below are our core plugins:
 
 There are also many [community plugins](https://nx.dev/community) you could add.
 
+## To Create Work space
+
+Run `npx create-nx-workspace@latest` to create workspace
+
 ## Generate an application
 
 Run `ng g @nrwl/angular:app my-app` to generate an application.
